@@ -2,7 +2,7 @@
 
 # Hi, I'm DZUNISANI MABUNDA 👋
 
-### Web Developer | Business Analyst | Software Development | IT Entrepreneurship
+### Web Developer | Business Analyst | Software Development 
 
 Building practical software solutions to real-world problems.
 
